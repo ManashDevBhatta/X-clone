@@ -16,9 +16,14 @@ This project is a simple web application built with HTML, CSS, and Tailwind CSS.
 
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone X-clone
    cd project-x
    npm install
    npm run build
    
-Replace `<repository-url>` with the actual URL of your repository.
+
+## Deployment
+
+You can view the live deployment of this project at the following link:
+
+[Deployment Link](https://metax.freewebhostmost.com/)
