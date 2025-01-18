@@ -16,10 +16,10 @@ This project is a simple web application built with HTML, CSS, and Tailwind CSS.
 
 1. Clone the repository:
    ```sh
-   git clone X-clone
-   cd project-x
+   git clone https://github.com/ManashDevBhatta/X-clone.git
+   cd X-clone
    npm install
-   npm run build
+   npm run dev
    
 
 ## Deployment
