@@ -26,4 +26,4 @@ This project is a simple web application built with HTML, CSS, and Tailwind CSS.
 
 You can view the live deployment of this project at the following link:
 
-[Deployment Link](https://metax.freewebhostmost.com/)
+[Deployment Link](https://effortless-axolotl-0a4af0.netlify.app/)
